@@ -9,6 +9,22 @@
 Product.create!(
   :name => "Macbook",
   :description => "Overpriced Comp",
-  :price_in_cents => 120055
+  :price_in_cents => 330033
   )
+
+Product.create!(
+  :name => "Coffee",
+  :description => "Legalized drug",
+  :price_in_cents => 110011
+  )
+
+
+Product.create!(
+  :name => "Water",
+  :description => "Free. Or overpriced.",
+  :price_in_cents => 220022
+  )
+
+
+
 
